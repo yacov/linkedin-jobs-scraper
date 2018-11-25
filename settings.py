@@ -1,7 +1,7 @@
 search_keys = { 
     "username"         :  "",
     "password"         :  "",
-    "keywords"         :  ["Data Scientist", "Data Analyst"],
+    "keywords"         :  ["Software developer", "Data Analyst"],
     "locations"        :  ["San Francisco Bay Area", "Greater New York City Area"],
 
     # specify the search radius from 'location' in miles:
@@ -23,5 +23,5 @@ search_keys = {
     "salary_range"     :  "All",
 
     # data is written to file in working directory as filename
-    "filename"         :  "output.txt"
+    "filename"         :  "outputScrap.txt"
 }
